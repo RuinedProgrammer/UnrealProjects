@@ -8,3 +8,7 @@ https://drive.google.com/drive/folders/1Nl_AOhB57APfcvI7hSKrDfEK-3GD-UVh?usp=dri
 
 Files for Warehouse Wreckage: (Controls: WASD + Spacebar to shoot):
 https://drive.google.com/drive/folders/1wkI0ekGmuj7x3cevlgkWKsqnBW3dCBfl?usp=drive_link
+
+Files for Simple Shooter: (Controls: WASD + Mouse left click for shooting)
+https://drive.google.com/drive/folders/17xGJbVaSDH2UJZRCVA03H2Szhu5Ud4Lp?usp=drive_link
+
